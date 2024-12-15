@@ -1,29 +1,27 @@
-# cub3d
-ouaient c'est le cub3ent
+<h1 align="center" id="title">42-cub3d</h1>
 
-## IMPORTANT
-![Alt Text](https://cdn.discordapp.com/attachments/864083917492584488/1037320402424299540/Screen_Shot_2022-11-02_at_12.00.44_PM.png)
+**_<p id="description" align="center"> Repository for the 42-Cursus abollen's project at 42Lyon </p>_**
 
-## Todo:
-- [x] Readmap
-	-	[x] Phil de culture papier map
-- [x] Ray
-- [x] Input
-- [x] Import textures
-- [x] Design textures
-- [x] Parsing
-	- [x] File Extension
-	- [x] Colors
-	- [x] PlayerAngle
-	- [x] CheckWall
-- [x] Norminette
-- [x] Leaks
-- [x] Fov
-- [x] Alpha
-- [x] Prot malloc
-- [x] Clean header
-- [x] Test textures
-- [ ] Tests
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 60%; max-width: 600px;">
+    <img src="https://img.shields.io/github/languages/code-size/xhemylus/42-cub3d" alt="shields">
+    <img src="https://img.shields.io/github/languages/count/xhemylus/42-cub3d" alt="shields">
+    <img src="https://img.shields.io/github/languages/top/xhemylus/42-cub3d" alt="shields">
+    <img src="https://img.shields.io/github/last-commit/xhemylus/42-cub3d" alt="shields">
+  </div>
+</div>
 
-## Bonus:
-- [x] Wall collisions
+***
+
+# Commands :
+
+* ``make && ./cub3d <map>``
+
+```                                                                         
+ ___ ___             _   ___   _ 
+| | |_  |___ ___ _ _| |_|_  |_| |
+|_  |  _|___|  _| | | . |_  | . |
+  |_|___|   |___|___|___|___|___|
+                                 
+```
+
